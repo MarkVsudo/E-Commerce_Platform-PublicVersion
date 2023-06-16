@@ -35,4 +35,4 @@ cypress.io **(testing website)**
 
 ###### Planned Tech Stack:
 
-- html, css, bootstrap, javascript, node.js, express.js, ejs, mysql, chartist.js, splide.js, gsap, different javascript libraries
+- html, css, bootstrap, javascript, node.js, express.js, ejs, mysql, chartist.js, splide.js, gsap + other javascript libraries
