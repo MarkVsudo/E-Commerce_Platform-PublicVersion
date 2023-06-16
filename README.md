@@ -33,6 +33,12 @@ Some of the images and the video are not owned by the brand, they are used for d
 
 cypress.io **(testing website)**
 
+---
+
+###### Some design changes :
+
+---
+
 ###### Planned Tech Stack:
 
 - html, css, bootstrap, javascript, node.js, express.js, ejs, mysql, chartist.js, splide.js, gsap + other javascript libraries
