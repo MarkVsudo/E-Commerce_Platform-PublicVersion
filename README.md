@@ -31,7 +31,7 @@ Some of the images and the video are not owned by the brand, they are used for d
 
 ###### Testing :
 
-cypress.io **(testing website)**
+- cypress.io **(testing website)**
 
 ---
 
