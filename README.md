@@ -1,8 +1,16 @@
-# React + Vite
+# A Job Board full-stack project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Tech Stack (MVC software design pattern):** MySQL; React, Material UI; Express.js
 
-Currently, two official plugins are available:
+**Build tool:** Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**For running the project, execute these two commands:**
+
+1. 🏗 Download all dependencies
+   ```
+   npm i
+   ```
+2. 🏁 Run project
+   ```
+   npm run dev
+   ```
