@@ -2,6 +2,8 @@
 
 ## **🛑 THIS PROJECT WAS DEVELOPED EXCLUSIVELY FOR A LOCAL CLOTHING BRAND, SO UNFORTUNATELY, THE CODE CANNOT BE SHARED ON GITHUB. HOWEVER, IF YOU'RE INTERESTED IN LEARNING MORE ABOUT THE PROJECT OR ITS FUNCTIONALITIES, I'M MORE THAN HAPPY TO SHARE INFORMATION ABOUT IT.**
 
+### Documentation is also provided in this repo so if you are interested you can check it out 😊
+
 **🎥 Website showcase (minor changes have been made after the video was created)**
 
 [![Video Thumbnail](https://img.youtube.com/vi/blElcQTBtQk/0.jpg)](https://youtu.be/blElcQTBtQk)
