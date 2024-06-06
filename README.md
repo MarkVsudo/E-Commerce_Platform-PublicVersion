@@ -1,16 +1,14 @@
-# A Job Board full-stack project
+# 👕E-commerce Clothing Web Application (Full-Stack Project)
 
-**Tech Stack (MVC software design pattern):** MySQL; React, Material UI; Express.js
+## **🛑 THIS PROJECT WAS DEVELOPED EXCLUSIVELY FOR A LOCAL CLOTHING BRAND, SO UNFORTUNATELY, THE CODE CANNOT BE SHARED ON GITHUB. HOWEVER, IF YOU'RE INTERESTED IN LEARNING MORE ABOUT THE PROJECT OR ITS FUNCTIONALITIES, I'M MORE THAN HAPPY TO SHARE INFORMATION ABOUT IT.**
 
-**Build tool:** Vite
+**🎥 Website showcase (minor changes have been made after the video was created)**
 
-**For running the project, execute these two commands:**
+[![Video Thumbnail](https://img.youtube.com/vi/blElcQTBtQk/0.jpg)](https://youtu.be/blElcQTBtQk)
 
-1. 🏗 Download all dependencies
-   ```
-   npm i
-   ```
-2. 🏁 Run project
-   ```
-   npm run dev
-   ```
+---
+
+🛠 Tech Stack:
+
+- EJS, CSS, Bootstrap, Javascript, Express.js, MySQL, different libraries & frameworks, Figma
+  [Figma Design File for Products Page](https://www.figma.com/file/cJvEFltHCWnsXyh4UQelmN/Products-Page-Casspie?type=design&mode=design&t=2TU551VVKILkPiOr-1)
